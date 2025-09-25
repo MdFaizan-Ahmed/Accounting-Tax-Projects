@@ -30,4 +30,5 @@ This Excel workbook demonstrates required GOSI report from above payroll calcula
 'T' for Tax. 
 Each employee's salary is divided into Base, Housing Allowance, Other Allowances, and GOSI Deduction. 
 All data is based on the above example data for payroll. 
+
 No formulae used in order to compliant with the Wages Protection System (WPS).  
