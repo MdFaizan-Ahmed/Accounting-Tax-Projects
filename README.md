@@ -11,7 +11,7 @@ Automated calculation of net VAT payable for filing.
 Fictional data used for demonstration purposes only.
 Users can input sales and purchase invoice details in the data tabs to observe VAT computations in the summary sheet, facilitating understanding of VAT return filing requirements in Saudi Arabia.
 
-# GOSI Payroll Contribution Excel Workbook
+# GOSI Payroll Contribution Workbook Sample
 This Excel workbook demonstrates payroll calculations for the General Organization for Social Insurance (GOSI) contributions in Saudi Arabia, designed as a sample for compliance and reporting purposes.
 
 Key features include:
