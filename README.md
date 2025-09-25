@@ -25,3 +25,9 @@ Net Salary calculation after deducting employee GOSI contribution.
 Example data included for demonstration.
 Clear formulas that update automatically with changes to input data.
 
+# GOSI GL Allocation Sample
+This Excel workbook demonstrates required GOSI report from above payroll calculations divided by codes - 'E' for Earnings and
+'T' for Tax. 
+Each employee's salary is divided into Base, Housing Allowance, Other Allowances, and GOSI Deduction. 
+All data is based on the above example data for payroll. 
+No formulae used in order to compliant with the Wages Protection System (WPS).  
